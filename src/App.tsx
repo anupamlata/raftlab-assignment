@@ -29,7 +29,7 @@ function App() {
     const personValue = typeof value === 'string' ? value.split(',') : value;
     setCalculatePersonName(personValue);
 
-    if (personValue.length == 2) {
+    if (personValue.length === 2) {
       setShowCalculateMultiSelect(false);
       const degree: any = calculateDegreeOfSeparation(personFriendList, personValue[0], personValue[1]);
       if(degree) {
