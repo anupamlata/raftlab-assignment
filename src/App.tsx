@@ -33,7 +33,8 @@ function App() {
       setShowCalculateMultiSelect(false);
       const degree: any = calculateDegreeOfSeparation(personFriendList, personValue[0], personValue[1]);
       if(degree) {
-        setDegreeOfSeparation(`Degree of Separation between ${personValue[0]} and ${personValue[1]} is --- ${degree?.join(' > ')}`);
+        setDegreeOfSeparation(`Degree of Separation between ${personValue[0]} and ${personValue[1]} is ---
+        ${degree?.join(' > ')}`);
       } else {
         setDegreeOfSeparation(`No Degree of Separation found between ${personValue[0]} and ${personValue[1]}`);
       }

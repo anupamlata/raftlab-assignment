@@ -18,7 +18,7 @@ function Person({ person, personList }: any) {
 
   return (
     <>
-      <Stack style={{ border: "1px solid red", marginTop: "10px" }} direction="row" spacing={2}>
+      <Stack style={{ border: "1px dotted orange", marginTop: "10px" }} direction="row" spacing={2}>
         <div style={{ display: "flex", alignItems: "center" }}>
 
           <Grid container spacing={12}>
