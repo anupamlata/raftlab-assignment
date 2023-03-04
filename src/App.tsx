@@ -106,7 +106,7 @@ function App() {
           : null
         }
 
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
+        <div style={{ display: "flex", alignItems: "center", marginTop :"12px",justifyContent: "center" }}>
           {
             personList.length <= 5 ?
               <Button onClick={() => onAddPersonClick()} variant="contained">Add Persons</Button>
