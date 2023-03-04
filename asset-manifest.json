@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/raftlab-assignment/static/css/main.1a1dcd0f.css",
-    "main.js": "/raftlab-assignment/static/js/main.c09a9899.js",
+    "main.js": "/raftlab-assignment/static/js/main.add1ae5f.js",
     "static/js/787.f2aad19b.chunk.js": "/raftlab-assignment/static/js/787.f2aad19b.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/raftlab-assignment/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/raftlab-assignment/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -37,11 +37,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/raftlab-assignment/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/raftlab-assignment/index.html",
     "main.1a1dcd0f.css.map": "/raftlab-assignment/static/css/main.1a1dcd0f.css.map",
-    "main.c09a9899.js.map": "/raftlab-assignment/static/js/main.c09a9899.js.map",
+    "main.add1ae5f.js.map": "/raftlab-assignment/static/js/main.add1ae5f.js.map",
     "787.f2aad19b.chunk.js.map": "/raftlab-assignment/static/js/787.f2aad19b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a1dcd0f.css",
-    "static/js/main.c09a9899.js"
+    "static/js/main.add1ae5f.js"
   ]
 }
